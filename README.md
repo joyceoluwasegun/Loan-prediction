@@ -37,7 +37,7 @@ To reproduce the analysis and run the code, ensure you have the following depend
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/loan-prediction.git
+    git clone https://github.com/joyceoluwasegun/loan-prediction.git
     ```
 2. Navigate to the repository:
     ```bash
